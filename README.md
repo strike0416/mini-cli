@@ -86,22 +86,20 @@ docker run --rm mini-cli:latest
 
 ## 4. GitHub 버전관리 내역
 
-> 작성 요령: 의미 있는 커밋 메시지 및 브랜치 사용 <- 작성 완료 후 삭제
-
 ### 체크리스트
-- [ ] Commit 5회 이상  
-- [ ] Branch 생성  
-- [ ] Branch → main Merge  
-- [ ] 의미 있는 Commit 메시지  
+- [x] Commit 5회 이상  
+- [x] Branch 생성  
+- [x] Branch → main Merge  
+- [x] 의미 있는 Commit 메시지  
 
 ### 설명
-예)
+
 ```
-feature/output-update 브랜치를 생성해 기능을 수정하고 main으로 merge함.
+feature/readme-polish 브랜치를 생성해 README.md을 수정하고 main으로 merge함.
 ```
 
 ### 캡처
-(예: `docs/images/git-log.png`)
+<img src="docs/image/git-log.png">
 
 ---
 
@@ -118,7 +116,7 @@ feature/output-update 브랜치를 생성해 기능을 수정하고 main으로 m
 
 > 작성 요령: 아래의 내용을 자유롭게 작성 <- 작성 완료 후 삭제
 
-- 배운 점:  
+- 배운 점: 
 - 어려웠던 점:  
 - 흥미로웠던 부분:  
 - 개선하고 싶은 점:  
@@ -127,9 +125,6 @@ feature/output-update 브랜치를 생성해 기능을 수정하고 main으로 m
 
 ## 7. 참고 자료
 
-> 작성 요령: 과젱에 참고한 레퍼런스가 있다면 작성(아래는 예시) <- 작성 완료 후 삭제
-
 - https://docs.docker.com/  
 - https://gcc.gnu.org/  
-- https://choosealicense.com/  
 
