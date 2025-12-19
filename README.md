@@ -99,15 +99,14 @@ feature/readme-polish 브랜치를 생성해 README.md을 수정하고 main으�
 ```
 
 ### 캡처
-<img src="docs/image/git-log.png">
+<img src="docs/images/git-log.png">
 
 ---
 
 ## 5. LICENSE 파일  
-선택한 라이선스: MIT / Apache-2.0 / Unlicense 등
 
 ```
-본 프로젝트는 {설정한 라이센트 작성} License를 적용합니다.
+본 프로젝트는 MIT License를 적용합니다.
 ```
 
 ---
